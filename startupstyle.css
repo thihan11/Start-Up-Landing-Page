@@ -1,0 +1,36 @@
+body,
+html {
+  font-family: 'Edu NSW ACT Foundation', cursive; 
+  font-size: 20px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  background-color: #d3d3d3;
+}
+
+h5 {
+  padding: 0px;
+  font-weight : bold ;
+  color: #e0766e;
+}
+
+
+.navbar-brand{
+  margin: 0;
+}
+
+.btn{
+  background-color: black;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+.btn-dark:hover {
+
+  background-color: grey;
+  border-color: black;
+  border-width: 4px;
+
+}
+
+
+
